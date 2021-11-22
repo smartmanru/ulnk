@@ -12,6 +12,27 @@
 
   "msg": "You are being teleported to",
 
+  "title1": "",
+  "link1": "",
+
+  "title2": "",
+  "link2": "",
+
+  "title3": "",
+  "link3": "",
+
+  "title4": "",
+  "link4": "",
+
+  "title5": "",
+  "link5": "",
+  
+  "title6":"",
+  "link6":"",
+  
+  "title7":"",
+  "link7":"",
+
 
   "bio": "This person has not setup a bio yet...",
   
@@ -21,3 +42,5 @@
   "Topic1": "",
   "Topic2": ""
 }
+
+ 
