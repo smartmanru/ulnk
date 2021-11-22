@@ -2,7 +2,7 @@
   "user": "Ислам Хабибов",
   "user_url": "iscom_",
   "media": "https://instagram.com",
-  "symbol": "@",
+  "symbol": "",
   "media_name": "Instagram",
   "name": "iscom_",
   "photo": "https://telegra.ph/file/981500f3e304ba67ef21a.png",
@@ -12,8 +12,8 @@
 
   "msg": "Вы будете перенаправлены на",
 
-  "title1": "",
-  "link1": "",
+  "title1": "Номер телефона",
+  "link1": "tel://+79219285245",
 
   "title2": "",
   "link2": "",
