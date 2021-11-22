@@ -1,6 +1,6 @@
 {
   "user": "iscom",
-  "user_url": "iscom",
+  "user_url": "iscom_",
   "media": "https://instagram.com",
   "symbol": "@",
   "media_name": "iscom_",
@@ -18,8 +18,8 @@
   "title2": "Link 2",
   "link2": "/link.html",
 
-  "title3": "",
-  "link3": "",
+  "title3": "link 3",
+  "link3": "https://www.instagram.com/iscom_/",
 
   "title4": "",
   "link4": "",
